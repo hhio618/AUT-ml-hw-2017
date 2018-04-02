@@ -1,0 +1,6 @@
+numpy
+matplotlib
+jupyter
+wrapt
+pgmpy
+scikit

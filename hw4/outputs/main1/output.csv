@@ -1,0 +1,5 @@
+Phi, Acc(Linear), Acc(Kernel), Function
+PhiIdentity, 49.75, 49.0, "Phi(x1, x2 --> x1, x2)"
+Phi1, 100.0, 100.0, "Phi(x1, x2 --> x1^2 + x2^2)"
+Phi2, 100.0, 100.0, "Phi(x1, x2 --> x1^2, x2^2)"
+Phi3, 100.0, 100.0, "Phi(x1, x2 --> x1^2, x2^2, x1.x2)"
